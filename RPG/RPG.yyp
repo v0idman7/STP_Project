@@ -50,7 +50,7 @@
             "Key": "2ede4296-a833-4577-8988-8d8397cb06ac",
             "Value": {
                 "id": "a25ffec5-4b72-4b67-8f7f-637fa7d4b65e",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\spr_player_mask\\spr_player_mask.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "3dfcb47a-20d3-4327-ac56-2ce66c297b6f",
             "Value": {
                 "id": "1c454322-ee91-4e61-b5b7-f05ad2550c97",
-                "resourcePath": "sprites\\spr_player1\\spr_player1.yy",
+                "resourcePath": "sprites\\spr_base_male\\spr_base_male.yy",
                 "resourceType": "GMSprite"
             }
         },
