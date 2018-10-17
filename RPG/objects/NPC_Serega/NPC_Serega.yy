@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "NPC_Serega",
     "eventList": [
-        
+        {
+            "id": "238b4521-5312-4805-bdbd-0a1dce43093c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "be768af4-a27c-45b5-901b-8a2c9eb33a2e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
