@@ -31,6 +31,30 @@
     },
     "resources": [
         {
+            "Key": "0166e8fb-05e3-499c-8e06-2e55947ec226",
+            "Value": {
+                "id": "e130a8ea-6f5f-4ed5-901e-99d9ae8b0b05",
+                "resourcePath": "sprites\\spr_feetarmor_gold_male\\spr_feetarmor_gold_male.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "046e3e14-347a-42e1-b22f-ef94b393e4d1",
+            "Value": {
+                "id": "cd75596c-bb61-4270-b5e8-cbe95f8f5798",
+                "resourcePath": "sprites\\spr_headarmor_gold_male\\spr_headarmor_gold_male.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0eafcb49-95c0-4373-b272-6c3e36f545a2",
+            "Value": {
+                "id": "1dce253d-feaa-4b2c-807e-db39e8f21f5a",
+                "resourcePath": "sprites\\spr_base_female\\spr_base_female.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "15142ff0-4edd-4ab0-83dc-51dbb5eeec67",
             "Value": {
                 "id": "290287ea-9610-419f-895d-9f20187ba45b",
@@ -79,6 +103,14 @@
             }
         },
         {
+            "Key": "3c4c88e8-59ac-4bb6-a980-5a3e1587c5ba",
+            "Value": {
+                "id": "9f1ab31e-cc50-4d01-beec-9cfd84ccf6e4",
+                "resourcePath": "sprites\\spr_handarmor_gold_male\\spr_handarmor_gold_male.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3dfcb47a-20d3-4327-ac56-2ce66c297b6f",
             "Value": {
                 "id": "1c454322-ee91-4e61-b5b7-f05ad2550c97",
@@ -100,6 +132,14 @@
                 "id": "100a812b-76c0-4c87-a895-3a3ef96f4f93",
                 "resourcePath": "rooms\\rm_0\\rm_0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "58c91e4a-d7f2-42b9-b70f-396cf55b60e3",
+            "Value": {
+                "id": "409b06bb-d1c5-47f5-a521-f6d8529295d5",
+                "resourcePath": "sprites\\spr_legsarmor_gold_male\\spr_legsarmor_gold_male.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,6 +271,14 @@
             }
         },
         {
+            "Key": "b70cef75-534e-47b4-a3c6-914d66f9b6e8",
+            "Value": {
+                "id": "774a5fdb-880f-4f1f-ab66-13c2f7c849f8",
+                "resourcePath": "sprites\\spr_shoulderarmor_gold_male\\spr_shoulderarmor_gold_male.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8bb50a0-e14a-4c30-98cc-2b5709a57d22",
             "Value": {
                 "id": "c766f34b-741e-477f-84ec-659c7cce62c3",
@@ -260,6 +308,14 @@
                 "id": "38581d45-7423-4403-b9ae-3a6c2f0ff7b8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0065f67-5899-44b7-a1dd-96fb14d57774",
+            "Value": {
+                "id": "f2249395-5d1a-4f4c-ba48-645fb92617fa",
+                "resourcePath": "views\\d0065f67-5899-44b7-a1dd-96fb14d57774.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -308,6 +364,14 @@
                 "id": "cac60e06-87e4-49fe-acb4-bc072ca2fd2b",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f880e44d-dba2-4a31-a056-5dfbeb66a482",
+            "Value": {
+                "id": "ae34bc98-1fd2-4cd9-a586-5030042fb1e0",
+                "resourcePath": "sprites\\spr_bodyarmor_gold_male\\spr_bodyarmor_gold_male.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
