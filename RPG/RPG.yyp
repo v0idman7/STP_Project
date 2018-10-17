@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "be768af4-a27c-45b5-901b-8a2c9eb33a2e",
+            "Value": {
+                "id": "2b4be35c-c715-4767-ab56-f38bb2c18090",
+                "resourcePath": "objects\\NPC_Serega\\NPC_Serega.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "38581d45-7423-4403-b9ae-3a6c2f0ff7b8",
