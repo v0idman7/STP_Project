@@ -301,6 +301,14 @@
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
             }
+        },
+        {
+            "Key": "fcb69cbb-0ad8-4cdc-a13f-a304619ecb83",
+            "Value": {
+                "id": "b016dcdf-4b19-4603-979b-fcaf2887fbdb",
+                "resourcePath": "sprites\\spr_hp1\\spr_hp1.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
