@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "8ea04d75-511f-44d0-9902-1557e0a1ad3d",
+            "Value": {
+                "id": "0b1cc8a2-c19c-46a4-b6a6-117589d0087e",
+                "resourcePath": "tilesets\\tile_house\\tile_house.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "93299a7e-69fa-4a6c-a913-0b2bd375baf6",
             "Value": {
                 "id": "a15b790a-510b-409f-80e2-e8c1695b857c",
@@ -631,6 +639,14 @@
             }
         },
         {
+            "Key": "b48cdf9b-8e12-4477-9458-8d5cec3bcd9e",
+            "Value": {
+                "id": "f3f5958a-b1e1-4926-b0b5-9ef10bf73acb",
+                "resourcePath": "tilesets\\tile\\tile.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "b70cef75-534e-47b4-a3c6-914d66f9b6e8",
             "Value": {
                 "id": "774a5fdb-880f-4f1f-ab66-13c2f7c849f8",
@@ -740,6 +756,14 @@
                 "id": "f2249395-5d1a-4f4c-ba48-645fb92617fa",
                 "resourcePath": "views\\d0065f67-5899-44b7-a1dd-96fb14d57774.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1cf3979-5738-4c5b-b223-5d3b146074e1",
+            "Value": {
+                "id": "97db14f8-2f41-4c42-8c8a-9e8e2d19c5fc",
+                "resourcePath": "tilesets\\tile_house2\\tile_house2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
