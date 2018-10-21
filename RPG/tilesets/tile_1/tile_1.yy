@@ -11842,18 +11842,10 @@
     ],
     "tile_animation_speed": 9,
     "tile_count": 1440,
-<<<<<<< HEAD
-<<<<<<< HEAD
     "tileheight": 32,
-=======
-    "tileheight": 16,
->>>>>>> 286dca03d63e8664e0a0bbcb03c4b41009ad2abe
-=======
-    "tileheight": 16,
->>>>>>> 286dca03d63e8664e0a0bbcb03c4b41009ad2abe
     "tilehsep": 0,
     "tilevsep": 0,
-    "tilewidth": 16,
+    "tilewidth": 32,
     "tilexoff": 0,
     "tileyoff": 0
 }
