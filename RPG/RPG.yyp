@@ -271,6 +271,22 @@
             }
         },
         {
+            "Key": "3be18c3b-fa69-43c6-ab61-dc3910b3e828",
+            "Value": {
+                "id": "c0b1ba3b-92f8-4873-9237-6b3dd2454a92",
+                "resourcePath": "views\\3be18c3b-fa69-43c6-ab61-dc3910b3e828.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c2edd89-024e-4d3d-874d-765a487e641e",
+            "Value": {
+                "id": "c5f1ccdf-cb1e-48ac-9b09-685e8862caff",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3c4c88e8-59ac-4bb6-a980-5a3e1587c5ba",
             "Value": {
                 "id": "9f1ab31e-cc50-4d01-beec-9cfd84ccf6e4",
@@ -476,6 +492,14 @@
                 "id": "16b96e10-39d0-4ee8-bcbc-2739ec9d5258",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "85398208-2c55-412f-b7f6-2ab79936acd9",
+            "Value": {
+                "id": "c5cb43d3-164d-443d-a269-a6eb8b9c0da5",
+                "resourcePath": "sprites\\spr_longsword_male\\spr_longsword_male.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
