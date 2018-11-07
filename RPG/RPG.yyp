@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "b0305185-44a8-4ce7-8e18-9facf540df99",
+            "Value": {
+                "id": "f79ae9b2-6528-4ec3-a489-4022d18c90b9",
+                "resourcePath": "rooms\\rm_house_1\\rm_house_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b08f2d09-c2c8-4228-9826-5857f60b933d",
             "Value": {
                 "id": "3da56f67-5225-4d45-856d-7b8ae0164401",
@@ -924,6 +932,14 @@
                 "id": "b1d85ffe-3292-4664-9bc5-15be7262229e",
                 "resourcePath": "sprites\\spr_tile_ancient_greece_architecture\\spr_tile_ancient_greece_architecture.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc531aef-7c52-4da8-a72e-9fe9901868c7",
+            "Value": {
+                "id": "495d2020-82fe-46ae-8063-d0836e62fa07",
+                "resourcePath": "tilesets\\tile_interior_1\\tile_interior_1.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
