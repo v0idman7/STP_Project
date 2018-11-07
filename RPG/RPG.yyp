@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "11bf699f-7e76-4e96-b07c-5d0b6a420a63",
-            "Value": {
-                "id": "ed9a7c02-f547-4cdc-94b9-a0b063f41bc6",
-                "resourcePath": "rooms\\room1\\room1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "13587a42-de4c-4ce7-9e19-9952336509bf",
             "Value": {
                 "id": "052aacb2-b2b3-4cd2-8b01-2d7a468300b9",
@@ -364,6 +356,14 @@
                 "id": "78985bf0-a1d6-4f1f-a12a-6c6a61334b19",
                 "resourcePath": "sprites\\spr_tile_castle\\spr_tile_castle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5796d71d-900b-4572-b812-275e22a778bd",
+            "Value": {
+                "id": "6f065b72-6c9c-491f-9187-90f7ff7cd4de",
+                "resourcePath": "rooms\\room3\\room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "a843f299-d8fe-4ae9-85f2-f46a1eca55d8",
+            "Value": {
+                "id": "7fe4ce2f-969d-444c-a440-f0031ff92abf",
+                "resourcePath": "tilesets\\tile_house3\\tile_house3.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "6eb40e27-8fb9-4b14-b87b-6e18162560ca",
@@ -767,11 +775,27 @@
             }
         },
         {
+            "Key": "c9ba34fe-d601-4d9f-b794-a3b96386c656",
+            "Value": {
+                "id": "46f95f42-d602-4690-9330-46f10a556c06",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cad760ee-094e-4822-ac17-6216c19d2885",
             "Value": {
                 "id": "288bfd0d-d27c-4cad-b717-8a13cc8443e5",
                 "resourcePath": "sprites\\spr_tile_water_fire\\spr_tile_water_fire.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc381ba4-9643-476b-be17-4c5ca972cf1a",
+            "Value": {
+                "id": "3e76d00c-fc53-4938-a4b5-33733d313292",
+                "resourcePath": "tilesets\\tile_plants\\tile_plants.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
