@@ -746,7 +746,7 @@
             "Key": "b12c1b83-9825-4589-a5a6-7e14b8111b2c",
             "Value": {
                 "id": "31882d34-220e-4c41-b8ea-99020b643c5b",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
                 "resourceType": "GMObject"
             }
         },
