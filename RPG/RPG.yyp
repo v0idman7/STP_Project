@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "088237a9-c8dd-44ac-bb1a-288c05fa3f68",
+            "Value": {
+                "id": "78937251-490d-44a5-837c-bff81772e6b3",
+                "resourcePath": "objects\\obj_bow_item\\obj_bow_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08b2009e-8f87-49de-b772-0b734e8465c5",
             "Value": {
                 "id": "3f2d546c-2088-4d84-9c4d-4474e4f1853e",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "1f93af05-21a0-45d5-97c2-784b03c79a83",
+            "Value": {
+                "id": "55230429-e313-4dad-96aa-172ea2f0fe1d",
+                "resourcePath": "sounds\\a_menu_select\\a_menu_select.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2276da66-6667-4d8b-9965-a0b3d11f78a3",
             "Value": {
                 "id": "1b81a25b-6cfa-4ece-b576-5e7a44d5f78a",
@@ -220,6 +236,14 @@
                 "id": "ac1db866-9695-465c-8cc1-a6363c639497",
                 "resourcePath": "views\\2510d4dd-e3e8-4360-bb22-6d116d650415.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2570b7a3-1534-4f84-95bf-58077ecde442",
+            "Value": {
+                "id": "3b3a93b0-f58d-4573-8452-8d061c065f60",
+                "resourcePath": "sprites\\spr_bow_item\\spr_bow_item.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -420,6 +444,14 @@
                 "id": "e665ba13-85c9-4567-b842-1981b2df17e3",
                 "resourcePath": "sprites\\spr_tile_house_objects2\\spr_tile_house_objects2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b043a84-0fdf-443b-b093-7d64079e18aa",
+            "Value": {
+                "id": "1de96f17-74ba-4085-a3c6-22632d5cd874",
+                "resourcePath": "sounds\\a_menu_move\\a_menu_move.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -651,6 +683,14 @@
             "Value": {
                 "id": "41df6614-f4f4-4b18-9b98-8a9a6ef2750f",
                 "resourcePath": "sprites\\spr_tile_hyptosis5\\spr_tile_hyptosis5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "86f7fa4e-5eea-4477-aa30-7cd8e5b65ecd",
+            "Value": {
+                "id": "87d83bd0-862c-4007-8866-ec3e630f8894",
+                "resourcePath": "sprites\\spr_pause_cursor\\spr_pause_cursor.yy",
                 "resourceType": "GMSprite"
             }
         },

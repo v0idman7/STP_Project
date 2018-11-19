@@ -5,7 +5,8 @@
     "name": "f8e0820b-df51-42d9-87f6-0f043c29e58f",
     "children": [
         "6bbc98bd-e98d-4174-9406-7e162dfc9287",
-        "fffd405d-d392-49d3-bd2d-f47d8586e223"
+        "fffd405d-d392-49d3-bd2d-f47d8586e223",
+        "088237a9-c8dd-44ac-bb1a-288c05fa3f68"
     ],
     "filterType": "GMObject",
     "folderName": "Inventory item",
